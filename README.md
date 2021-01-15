@@ -1,2 +1,2 @@
 # React-Redux
-Created with CodeSandbox
+A React Redux template 
