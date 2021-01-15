@@ -5,7 +5,7 @@ const loggedReducer = (state = false, action) => {
     case "SIGN_OUT":
       return false;
     default:
-      return "";
+      return state;
   }
 };
 export default loggedReducer;
